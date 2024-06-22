@@ -1,0 +1,340 @@
+HTTrack3.49-2 launched on Sun, 16 Jun 2024 17:58:59 at https://photocontestdeadlines.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://photocontestdeadlines.com/ -O "/Users/athulgopalakrishnan/Documents/oppurtunity/test_websites/project_photo_contest_deadline" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:00:00	Error: 	"Not Found" (404) at link fonts.googleapis.com/ (from https://photocontestdeadlines.com/)
+18:03:35	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=21
+18:03:35	Warning: 	File has moved from https://photocontestdeadlines.com/?p=21 to https://photocontestdeadlines.com/submit-contest/
+18:03:35	Error: 	"Bad Request" (400) at link https://photocontestdeadlines.com/wordpress/wp-admin/admin-ajax.php (from https://photocontestdeadlines.com/submit-contest/)
+18:03:35	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=209
+18:03:35	Warning: 	File has moved from https://photocontestdeadlines.com/?p=209 to https://photocontestdeadlines.com/banners/
+18:03:35	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=2330
+18:03:35	Warning: 	File has moved from https://photocontestdeadlines.com/?p=2330 to https://photocontestdeadlines.com/how-to-take-a-perfect-photo-for-the-contest/
+18:03:35	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=3987
+18:03:35	Warning: 	File has moved from https://photocontestdeadlines.com/?p=3987 to https://photocontestdeadlines.com/privacy-policy-terms-of-use/
+18:03:35	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=9
+18:03:35	Warning: 	File has moved from https://photocontestdeadlines.com/?p=9 to https://photocontestdeadlines.com/all-photo-competitions/
+18:04:08	Warning: 	Link https://photocontestdeadlines.com/all-photo-competitions/page/2/ not scanned (follow robots meta tag)
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=15
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=15 to https://photocontestdeadlines.com/photo-contests-closing-soon/
+18:04:08	Warning: 	Link https://photocontestdeadlines.com/photo-contests-closing-soon/page/2/ not scanned (follow robots meta tag)
+18:04:08	Warning: 	Link https://photocontestdeadlines.com/photo-contest-list/page/2/ not scanned (follow robots meta tag)
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=742
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=742 to https://photocontestdeadlines.com/photo-grants-scholarships/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12551
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12551 to https://photocontestdeadlines.com/photo-contest-list/chromatic-photo-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12630
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12630 to https://photocontestdeadlines.com/photo-contest-list/monochrome-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=11881
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=11881 to https://photocontestdeadlines.com/photo-contest-list/the-wild-photo-awards-win-up-to-5000-every-month/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13161
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13161 to https://photocontestdeadlines.com/photo-contest-list/standard-chartered-weather-photographer-of-the-year-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13412
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13412 to https://photocontestdeadlines.com/photo-contest-list/the-lensculture-street-photography-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13466
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13466 to https://photocontestdeadlines.com/photo-contest-list/the-double-city/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13381
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13381 to https://photocontestdeadlines.com/photo-contest-list/earth-is-your-muse-juried-photography-contest/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13199
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13199 to https://photocontestdeadlines.com/photo-contest-list/environmental-challenges-online-competition/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12579
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12579 to https://photocontestdeadlines.com/photo-contest-list/win-an-online-solo-exhibition-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13002
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13002 to https://photocontestdeadlines.com/photo-contest-list/bike-photography-contest-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13205
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13205 to https://photocontestdeadlines.com/photo-contest-list/photolar25-fly/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13183
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13183 to https://photocontestdeadlines.com/photo-contest-list/photobook-award-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13278
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13278 to https://photocontestdeadlines.com/photo-contest-list/world-nature-photography-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13385
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13385 to https://photocontestdeadlines.com/photo-contest-list/14th-picture-award-category-people/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13315
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13315 to https://photocontestdeadlines.com/photo-contest-list/futuristic-visions-open-theme-call-for-art/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13122
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13122 to https://photocontestdeadlines.com/photo-contest-list/iv-edition-esperanza-pertusa-international-photography-prize/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13189
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13189 to https://photocontestdeadlines.com/photo-contest-list/elopement-photography-legend-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13348
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13348 to https://photocontestdeadlines.com/photo-contest-list/maghreb-photography-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13195
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13195 to https://photocontestdeadlines.com/photo-contest-list/monochromatic-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13424
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13424 to https://photocontestdeadlines.com/photo-contest-list/tusis-iv-celebrating-the-crafted-image/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13337
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13337 to https://photocontestdeadlines.com/photo-contest-list/the-portrait-is-the-theme-for-this-months-competition/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13141
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13141 to https://photocontestdeadlines.com/photo-contest-list/audubon-community-nature-center-2024-nature-photography-contest/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13458
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13458 to https://photocontestdeadlines.com/photo-contest-list/unesco-icm-2024-martial-arts-photo-contest/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13454
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13454 to https://photocontestdeadlines.com/photo-contest-list/2024-ams-weather-band-photo-contest/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13462
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13462 to https://photocontestdeadlines.com/photo-contest-list/aap-magazine-41-bw/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13477
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13477 to https://photocontestdeadlines.com/photo-contest-list/lab-art-prize-venice24-edition/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13473
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13473 to https://photocontestdeadlines.com/photo-contest-list/the-16th-jeju-international-photo-contest/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13341
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13341 to https://photocontestdeadlines.com/photo-contest-list/passepartout-photo-prize-9th-edition-rome/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13430
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13430 to https://photocontestdeadlines.com/photo-contest-list/sony-world-photography-awards-2025/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12378
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12378 to https://photocontestdeadlines.com/photo-contest-list/natural-landscape-photography-awards/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12464
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12464 to https://photocontestdeadlines.com/photo-contest-list/analog-sparks-international-film-photography-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12404
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12404 to https://photocontestdeadlines.com/photo-contest-list/nd-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12475
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12475 to https://photocontestdeadlines.com/photo-contest-list/the-15th-epson-international-pano-awards/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13130
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13130 to https://photocontestdeadlines.com/photo-contest-list/11th-fine-art-photography-awards-2025/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12871
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12871 to https://photocontestdeadlines.com/photo-contest-list/uol-zoom-world-photo-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12888
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12888 to https://photocontestdeadlines.com/photo-contest-list/annual-photography-awards-2024/
+18:04:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13096
+18:04:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13096 to https://photocontestdeadlines.com/photo-contest-list/anthology-art-competition-2024/
+18:04:08	Warning: 	HTML file (762 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/home/feed/
+18:04:08	Warning: 	HTML file (201525 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/wp-json/
+18:04:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2F
+18:04:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2F&format=xml
+18:04:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/17
+18:04:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wordpress/xmlrpc.php?rsd
+18:04:26	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 1006): https://photocontestdeadlines.com/wp-content/plugins/profile-builder/assets/images/sorting-default.png
+18:04:56	Warning: 	HTML file (42425 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/all-photo-competitions/
+18:05:02	Warning: 	HTML file (34199 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/monochrome-awards-2024/
+18:05:08	Warning: 	HTML file (33068 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/the-wild-photo-awards-win-up-to-5000-every-month/
+18:05:11	Warning: 	HTML file (782 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/submit-contest/feed/
+18:05:14	Warning: 	HTML file (33674 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/standard-chartered-weather-photographer-of-the-year-2024/
+18:05:20	Warning: 	HTML file (32805 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/the-lensculture-street-photography-awards-2024/
+18:05:26	Warning: 	HTML file (33837 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/the-double-city/
+18:05:32	Warning: 	HTML file (32575 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/earth-is-your-muse-juried-photography-contest/
+18:05:38	Warning: 	HTML file (33757 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/environmental-challenges-online-competition/
+18:05:44	Warning: 	HTML file (34474 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/win-an-online-solo-exhibition-2024/
+18:05:50	Warning: 	HTML file (32406 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/bike-photography-contest-2024/
+18:05:56	Warning: 	HTML file (31954 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/photolar25-fly/
+18:05:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fsubmit-contest%2F
+18:06:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fsubmit-contest%2F&format=xml
+18:06:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/21
+18:06:07	Warning: 	HTML file (33538 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/photobook-award-2024/
+18:06:12	Warning: 	HTML file (33320 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/world-nature-photography-awards-2024/
+18:06:18	Warning: 	HTML file (33235 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/14th-picture-award-category-people/
+18:06:24	Warning: 	HTML file (32005 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/futuristic-visions-open-theme-call-for-art/
+18:06:27	Warning: 	HTML file (768 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/banners/feed/
+18:06:30	Warning: 	HTML file (33564 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/iv-edition-esperanza-pertusa-international-photography-prize/
+18:06:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/209
+18:06:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fbanners%2F
+18:06:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fbanners%2F&format=xml
+18:06:36	Warning: 	HTML file (32027 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/elopement-photography-legend-awards-2024/
+18:06:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fhow-to-take-a-perfect-photo-for-the-contest%2F&format=xml
+18:06:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/2330
+18:06:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/3987
+18:06:42	Warning: 	HTML file (798 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/all-photo-competitions/feed/
+18:06:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fprivacy-policy-terms-of-use%2F&format=xml
+18:06:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/9
+18:06:45	Warning: 	HTML file (33835 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/monochromatic-awards-2024/
+18:06:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fall-photo-competitions%2F&format=xml
+18:06:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fall-photo-competitions%2F
+18:06:51	Warning: 	HTML file (32432 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/tusis-iv-celebrating-the-crafted-image/
+18:06:56	Warning: 	HTML file (32216 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/the-portrait-is-the-theme-for-this-months-competition/
+18:07:00	Warning: 	HTML file (34097 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/audubon-community-nature-center-2024-nature-photography-contest/
+18:07:03	Warning: 	HTML file (32658 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/unesco-icm-2024-martial-arts-photo-contest/
+18:07:06	Warning: 	HTML file (808 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contests-closing-soon/feed/
+18:07:11	Warning: 	HTML file (5915 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/feed/
+18:07:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contests-closing-soon%2F
+18:07:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contests-closing-soon%2F&format=xml
+18:07:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/742
+18:07:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-grants-scholarships%2F&format=xml
+18:07:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fchromatic-photo-awards-2024%2F
+18:07:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-grants-scholarships%2F
+18:07:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fchromatic-photo-awards-2024%2F&format=xml
+18:07:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-wild-photo-awards-win-up-to-5000-every-month%2F&format=xml
+18:07:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-wild-photo-awards-win-up-to-5000-every-month%2F
+18:07:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-lensculture-street-photography-awards-2024%2F
+18:07:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-double-city%2F&format=xml
+18:07:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-lensculture-street-photography-awards-2024%2F&format=xml
+18:07:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fearth-is-your-muse-juried-photography-contest%2F
+18:07:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fearth-is-your-muse-juried-photography-contest%2F&format=xml
+18:07:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fenvironmental-challenges-online-competition%2F&format=xml
+18:07:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fenvironmental-challenges-online-competition%2F
+18:07:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fwin-an-online-solo-exhibition-2024%2F&format=xml
+18:07:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fbike-photography-contest-2024%2F
+18:07:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fphotolar25-fly%2F
+18:07:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fbike-photography-contest-2024%2F&format=xml
+18:07:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fphotolar25-fly%2F&format=xml
+18:07:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fphotobook-award-2024%2F&format=xml
+18:07:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2F14th-picture-award-category-people%2F
+18:07:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fworld-nature-photography-awards-2024%2F&format=xml
+18:07:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2F14th-picture-award-category-people%2F&format=xml
+18:07:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Ffuturistic-visions-open-theme-call-for-art%2F
+18:07:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Ffuturistic-visions-open-theme-call-for-art%2F&format=xml
+18:07:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fiv-edition-esperanza-pertusa-international-photography-prize%2F&format=xml
+18:07:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Felopement-photography-legend-awards-2024%2F&format=xml
+18:07:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fmaghreb-photography-awards-2024%2F
+18:07:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fmaghreb-photography-awards-2024%2F&format=xml
+18:07:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fmonochromatic-awards-2024%2F
+18:07:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fmonochromatic-awards-2024%2F&format=xml
+18:07:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Ftusis-iv-celebrating-the-crafted-image%2F
+18:07:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Ftusis-iv-celebrating-the-crafted-image%2F&format=xml
+18:07:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-portrait-is-the-theme-for-this-months-competition%2F
+18:07:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-portrait-is-the-theme-for-this-months-competition%2F&format=xml
+18:07:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Faudubon-community-nature-center-2024-nature-photography-contest%2F
+18:07:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Faudubon-community-nature-center-2024-nature-photography-contest%2F&format=xml
+18:07:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Funesco-icm-2024-martial-arts-photo-contest%2F
+18:07:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Funesco-icm-2024-martial-arts-photo-contest%2F&format=xml
+18:07:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2F2024-ams-weather-band-photo-contest%2F
+18:07:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2F2024-ams-weather-band-photo-contest%2F&format=xml
+18:07:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Faap-magazine-41-bw%2F
+18:07:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Faap-magazine-41-bw%2F&format=xml
+18:07:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Flab-art-prize-venice24-edition%2F&format=xml
+18:07:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-16th-jeju-international-photo-contest%2F&format=xml
+18:07:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fpassepartout-photo-prize-9th-edition-rome%2F&format=xml
+18:07:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fpassepartout-photo-prize-9th-edition-rome%2F
+18:07:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fsony-world-photography-awards-2025%2F
+18:07:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fsony-world-photography-awards-2025%2F&format=xml
+18:07:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fnatural-landscape-photography-awards%2F
+18:07:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fnatural-landscape-photography-awards%2F&format=xml
+18:08:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fanalog-sparks-international-film-photography-awards-2024%2F
+18:08:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fanalog-sparks-international-film-photography-awards-2024%2F&format=xml
+18:08:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fnd-awards-2024%2F
+18:08:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fnd-awards-2024%2F&format=xml
+18:08:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-15th-epson-international-pano-awards%2F
+18:08:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fthe-15th-epson-international-pano-awards%2F&format=xml
+18:08:05	Warning: 	HTML file (795 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=21
+18:08:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2F11th-fine-art-photography-awards-2025%2F
+18:08:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2F11th-fine-art-photography-awards-2025%2F&format=xml
+18:08:09	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=21
+18:08:09	Warning: 	File has moved from https://photocontestdeadlines.com/?p=21 to https://photocontestdeadlines.com/submit-contest/
+18:08:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fuol-zoom-world-photo-awards-2024%2F
+18:08:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fannual-photography-awards-2024%2F
+18:08:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fuol-zoom-world-photo-awards-2024%2F&format=xml
+18:08:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fanthology-art-competition-2024%2F
+18:08:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fannual-photography-awards-2024%2F&format=xml
+18:08:43	Warning: 	HTML file (1 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/wordpress/wp-admin/admin-ajax.php
+18:08:46	Error: 	"Bad Request" (400) at link https://photocontestdeadlines.com/wordpress/wp-admin/admin-ajax.php (from https://photocontestdeadlines.com/submit-contest/)
+18:08:46	Warning: 	HTML file (783 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=209
+18:08:48	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=209
+18:08:48	Warning: 	File has moved from https://photocontestdeadlines.com/?p=209 to https://photocontestdeadlines.com/banners/
+18:08:48	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=2330
+18:08:50	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=2330
+18:08:50	Warning: 	File has moved from https://photocontestdeadlines.com/?p=2330 to https://photocontestdeadlines.com/how-to-take-a-perfect-photo-for-the-contest/
+18:08:50	Warning: 	HTML file (825 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=3987
+18:08:52	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=3987
+18:08:52	Warning: 	File has moved from https://photocontestdeadlines.com/?p=3987 to https://photocontestdeadlines.com/privacy-policy-terms-of-use/
+18:08:52	Warning: 	HTML file (809 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=9
+18:08:54	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=9
+18:08:54	Warning: 	File has moved from https://photocontestdeadlines.com/?p=9 to https://photocontestdeadlines.com/all-photo-competitions/
+18:08:54	Warning: 	HTML file (32944 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/natural-landscape-photography-awards/
+18:08:56	Warning: 	HTML file (33573 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/the-15th-epson-international-pano-awards/
+18:08:58	Warning: 	HTML file (35548 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/11th-fine-art-photography-awards-2025/
+18:09:00	Warning: 	HTML file (31637 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/uol-zoom-world-photo-awards-2024/
+18:09:02	Warning: 	HTML file (33905 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/annual-photography-awards-2024/
+18:09:04	Warning: 	HTML file (31887 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/anthology-art-competition-2024/
+18:09:06	Warning: 	HTML file (44976 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/all-photo-competitions/page/2/
+18:09:08	Warning: 	Link https://photocontestdeadlines.com/all-photo-competitions/page/2/ not scanned (follow robots meta tag)
+18:09:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/wp/v2/pages/15
+18:09:10	Warning: 	HTML file (44870 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contests-closing-soon/page/2/
+18:09:12	Warning: 	Link https://photocontestdeadlines.com/photo-contests-closing-soon/page/2/ not scanned (follow robots meta tag)
+18:09:12	Warning: 	HTML file (819 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=742
+18:09:14	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=742
+18:09:14	Warning: 	File has moved from https://photocontestdeadlines.com/?p=742 to https://photocontestdeadlines.com/photo-grants-scholarships/
+18:09:14	Warning: 	HTML file (865 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=12551
+18:09:16	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12551
+18:09:16	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12551 to https://photocontestdeadlines.com/photo-contest-list/chromatic-photo-awards-2024/
+18:09:16	Warning: 	HTML file (35334 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/?contest_theme=Aerial
+18:09:18	Warning: 	HTML file (35451 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/?contest_theme=Environmental
+18:09:20	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13466
+18:09:22	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13466
+18:09:22	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13466 to https://photocontestdeadlines.com/photo-contest-list/the-double-city/
+18:09:22	Warning: 	HTML file (35322 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/?contest_theme=Sports
+18:09:24	Warning: 	HTML file (897 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13199
+18:09:26	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13199
+18:09:26	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13199 to https://photocontestdeadlines.com/photo-contest-list/environmental-challenges-online-competition/
+18:09:26	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=12579
+18:09:28	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12579
+18:09:28	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12579 to https://photocontestdeadlines.com/photo-contest-list/win-an-online-solo-exhibition-2024/
+18:09:28	Warning: 	HTML file (35426 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/?contest_theme=Open%20Theme
+18:09:30	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13205
+18:09:32	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13205
+18:09:32	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13205 to https://photocontestdeadlines.com/photo-contest-list/photolar25-fly/
+18:09:32	Warning: 	HTML file (851 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13183
+18:09:34	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13183
+18:09:34	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13183 to https://photocontestdeadlines.com/photo-contest-list/photobook-award-2024/
+18:09:34	Warning: 	HTML file (883 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13278
+18:09:36	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13278
+18:09:36	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13278 to https://photocontestdeadlines.com/photo-contest-list/world-nature-photography-awards-2024/
+18:09:36	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13385
+18:09:38	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13385
+18:09:38	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13385 to https://photocontestdeadlines.com/photo-contest-list/14th-picture-award-category-people/
+18:09:38	Warning: 	HTML file (35390 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/?contest_theme=Self-Portrait
+18:09:40	Warning: 	HTML file (931 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13122
+18:09:42	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13122
+18:09:42	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13122 to https://photocontestdeadlines.com/photo-contest-list/iv-edition-esperanza-pertusa-international-photography-prize/
+18:09:42	Warning: 	HTML file (891 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13189
+18:09:44	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13189
+18:09:44	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13189 to https://photocontestdeadlines.com/photo-contest-list/elopement-photography-legend-awards-2024/
+18:09:44	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13348
+18:09:46	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13348
+18:09:46	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13348 to https://photocontestdeadlines.com/photo-contest-list/maghreb-photography-awards-2024/
+18:09:46	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13195
+18:09:48	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13195
+18:09:48	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13195 to https://photocontestdeadlines.com/photo-contest-list/monochromatic-awards-2024/
+18:09:48	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13424
+18:09:50	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13424
+18:09:50	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13424 to https://photocontestdeadlines.com/photo-contest-list/tusis-iv-celebrating-the-crafted-image/
+18:09:50	Warning: 	HTML file (917 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13337
+18:09:52	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13337
+18:09:52	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13337 to https://photocontestdeadlines.com/photo-contest-list/the-portrait-is-the-theme-for-this-months-competition/
+18:09:52	Warning: 	HTML file (937 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13141
+18:09:54	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13141
+18:09:54	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13141 to https://photocontestdeadlines.com/photo-contest-list/audubon-community-nature-center-2024-nature-photography-contest/
+18:09:54	Warning: 	HTML file (35391 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/?contest_theme=Panoramic
+18:09:56	Warning: 	HTML file (881 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13454
+18:09:58	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13454
+18:09:58	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13454 to https://photocontestdeadlines.com/photo-contest-list/2024-ams-weather-band-photo-contest/
+18:09:58	Warning: 	HTML file (847 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13462
+18:10:00	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13462
+18:10:00	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13462 to https://photocontestdeadlines.com/photo-contest-list/aap-magazine-41-bw/
+18:10:00	Warning: 	HTML file (871 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13477
+18:10:02	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13477
+18:10:02	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13477 to https://photocontestdeadlines.com/photo-contest-list/lab-art-prize-venice24-edition/
+18:10:02	Warning: 	HTML file (893 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13473
+18:10:04	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13473
+18:10:04	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13473 to https://photocontestdeadlines.com/photo-contest-list/the-16th-jeju-international-photo-contest/
+18:10:04	Warning: 	HTML file (893 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13341
+18:10:06	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13341
+18:10:06	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13341 to https://photocontestdeadlines.com/photo-contest-list/passepartout-photo-prize-9th-edition-rome/
+18:10:06	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13430
+18:10:08	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13430
+18:10:08	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13430 to https://photocontestdeadlines.com/photo-contest-list/sony-world-photography-awards-2025/
+18:10:08	Warning: 	HTML file (35458 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/photo-contest-list/?contest_theme=Multi-categories
+18:10:10	Warning: 	HTML file (923 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=12464
+18:10:12	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12464
+18:10:12	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12464 to https://photocontestdeadlines.com/photo-contest-list/analog-sparks-international-film-photography-awards-2024/
+18:10:12	Warning: 	HTML file (839 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=12404
+18:10:14	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12404
+18:10:14	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12404 to https://photocontestdeadlines.com/photo-contest-list/nd-awards-2024/
+18:10:14	Warning: 	HTML file (891 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=12475
+18:10:16	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12475
+18:10:16	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12475 to https://photocontestdeadlines.com/photo-contest-list/the-15th-epson-international-pano-awards/
+18:10:16	Warning: 	HTML file (885 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13130
+18:10:18	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13130
+18:10:18	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13130 to https://photocontestdeadlines.com/photo-contest-list/11th-fine-art-photography-awards-2025/
+18:10:18	Warning: 	HTML file (875 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=12871
+18:10:20	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12871
+18:10:20	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12871 to https://photocontestdeadlines.com/photo-contest-list/uol-zoom-world-photo-awards-2024/
+18:10:20	Warning: 	HTML file (871 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=12888
+18:10:22	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=12888
+18:10:22	Warning: 	File has moved from https://photocontestdeadlines.com/?p=12888 to https://photocontestdeadlines.com/photo-contest-list/annual-photography-awards-2024/
+18:10:22	Warning: 	HTML file (871 bytes) retransferred due to lack of cache: https://photocontestdeadlines.com/?p=13096
+18:10:24	Warning: 	Moved Permanently for https://photocontestdeadlines.com/?p=13096
+18:10:24	Warning: 	File has moved from https://photocontestdeadlines.com/?p=13096 to https://photocontestdeadlines.com/photo-contest-list/anthology-art-competition-2024/
+18:10:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://photocontestdeadlines.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphotocontestdeadlines.com%2Fphoto-contest-list%2Fanthology-art-competition-2024%2F&format=xml
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 27 seconds : 344 links scanned, 425 files written (14178432 bytes overall) [11022653 bytes received at 16044 bytes/sec], 4894653 bytes transferred using HTTP compression in 329 files, ratio 28%, 2.9 requests per connection
+(3 errors, 326 warnings, 0 messages)
